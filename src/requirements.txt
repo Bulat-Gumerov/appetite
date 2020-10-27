@@ -1,5 +1,7 @@
-setuptools
-Jinja2>=2.8
-paramiko>=2.0.2
-scp>=0.10.2
-pyyaml>=3.12
+setuptools==43.0.0
+Jinja2==2.8
+paramiko==2.7.1
+scp==0.13.2
+MarkupSafe==1.1.1
+bcrypt==3.1.7
+PyYAML==5.2
